@@ -14,8 +14,9 @@
 		  <a class="active" href="FAQ.php">FAQ</a>
 		  <a href="ThingsToDo.php">Things to do</a>
 		</div> 
-		<h1>FAQ</h1>
+		<h1>Frequently asked questions</h1>
 		 
-		<p></p>
+		<?php include('../Text/FAQ.txt'); ?>
+		
 	</body>
 </html> 

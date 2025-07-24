@@ -1,0 +1,30 @@
+<h2>Rehearsal Dinner</h2>
+<h3>Saturday, August 29, 2026 at 5:30 pm</h3>
+<p>Please see the RSVP page for details about location.
+We are starting the celebrations off with a rehearsal dinner for family and close friends in BLANK.</p>
+
+<h2>Wedding</h2>
+<h3>Sunday, August 30, 2026</h3>
+<h3>Minnesota Boat Club
+1 Wabasha Street South, Saint Paul, Minnesota 55107</h3>
+<img
+	src="https://www.mintahoe.com/wp-content/uploads/2025/05/062114_357-1-scaled.jpg"
+	alt="Minnesota Boat Club" width="500"
+/>
+<h3>Parking</h3>
+<p>A small parking lot is available at the venue. If that fills up, street parking and a city-managed lot are just down the road.</p>
+<h3>Dress Code</h3>
+The dress code is semi-formal/formal. For men, this means a suit jacket or blazer with dressy pants and a tie.  For women, knee length to midi or tea length skirts, fancy jumpsuits or even more tailored looks work if that is your thing! The vibes are festive, playful and fun.
+<h3>Ceremony</h3>
+<h4>4:00 PM - 4:30 PM</h4>
+<p>Please join us for an outdoor ceremony where we will exchange our vows. Weather permitting, the ceremony may be moved indoors at the same venue. Doors open at 3:30 pm and the ceremony starts promptly at 4.
+
+After the ceremony, we will have a cocktail/social hour before the reception.</p>
+
+<h3>Cocktail Hour/Social Hour</h3>
+<h4>4:45 PM - 5:45 PM</h4>
+<p>Join us for a social hour with music, games and libations (Alcoholic and non-alcoholic options available).</p>
+
+<h3>Dinner, Toasts, Dessert and Dancing</h3>
+<h4>6:00 PM - 10:30 PM</h4>
+<p>After the ceremony and social hour, join us for dinner, toasts, dessert and dancing 'til our feet are tired.</p>

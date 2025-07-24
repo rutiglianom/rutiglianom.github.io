@@ -16,7 +16,7 @@
 		</div> 
 		<h1>Travel & Accommodations</h1>
 		 
-		<p></p>
+		<?php include('../Text/TravelAccommodations.txt'); ?>
 	
 	</body>
 </html> 

@@ -21,7 +21,7 @@
 		  /> 
 	
 		<h2>Our Story</h2>
-		<p><?php include('Text/OurStory.txt'); ?></p>
+		<?php include('Text/OurStory.txt'); ?>
 	
 	</body>
 </html> 

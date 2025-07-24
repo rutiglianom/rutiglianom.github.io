@@ -16,7 +16,7 @@
 		</div> 
 		<h1>Things to do</h1>
 		 
-		<p>Mall of America</p>
+		<?php include('../Text/ThingsToDo.txt'); ?>
 	
 	</body>
 </html> 
