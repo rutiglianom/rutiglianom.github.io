@@ -7,12 +7,12 @@
 	</head>
 	<body>
 		 <div class="topnav">
-		  <a class="active" href="#home">Home</a>
-		  <a href="Event.html">Event</a>
-		  <a href="WeddingParty.html">Wedding Party</a>
-		  <a href="TravelAccommodations.html">Travel & Accommodations</a>
-		  <a href="FAQ.html">FAQ</a>
-		  <a href="ThingsToDo.html">Things to do</a>
+		  <a class="active" href="index.php">Home</a>
+		  <a href="Pages/Event.php">Event</a>
+		  <a href="Pages/WeddingParty.php">Wedding Party</a>
+		  <a href="Pages/TravelAccommodations.php">Travel & Accommodations</a>
+		  <a href="Pages/FAQ.php">FAQ</a>
+		  <a href="Pages/ThingsToDo.php">Things to do</a>
 		</div> 
 		<h1>Sararosa & Matthew</h1>
 		 <img
