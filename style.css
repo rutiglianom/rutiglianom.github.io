@@ -20,12 +20,20 @@ h4 {
   	font-family: "Georgia", Georgia, serif;
 }
 
-p {
+.center p {
   	margin-left: 100px;
   	margin-right: 100px;
   	margin-top: 20px;
   	margin-bottom: 20px;
   	text-align: center;
+  	font-family: "Georgia", Georgia, serif;
+}
+p {
+  	margin-left: 100px;
+  	margin-right: 100px;
+  	margin-top: 20px;
+  	margin-bottom: 20px;
+  	text-align: left;
   	font-family: "Georgia", Georgia, serif;
 }
 
