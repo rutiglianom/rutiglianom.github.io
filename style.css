@@ -1,6 +1,11 @@
 @font-face {
   font-family: aireRoman;
-  src: url(Fonts/air-roman.woff);
+  src: url(Fonts/aire-bold-pro.woff);
+}
+
+@font-face {
+  font-family: didotLTStdRoman;
+  src: url(Fonts/DidotLTStd-Roman.woff);
 }
 
 body {
@@ -10,26 +15,26 @@ body {
 h1 {
 	text-align: center;
   	font-family: aireRoman;
-  	font-size: 36px;
+  	font-size: 54px;
 }
 h2 {
 	text-align: center;
-  	font-family: "Georgia", Georgia, serif;
+  	font-family: didotLTStdRoman, "Georgia", Georgia, serif;
 }
 h3 {
 	text-align: center;
-  	font-family: "Georgia", Georgia, serif;
+  	font-family: didotLTStdRoman, "Georgia", Georgia, serif;
 }
 h4 {
 	text-align: center;
-  	font-family: "Georgia", Georgia, serif;
+  	font-family: didotLTStdRoman, "Georgia", Georgia, serif;
 }
 
 .center {
   	margin-top: 30px;
   	margin-bottom: 30px;
   	text-align: center;
-  	font-family: "Georgia", Georgia, serif;
+  	font-family: didotLTStdRoman, "Georgia", Georgia, serif;
 }
 p {
   	margin-left: 150px;
@@ -37,7 +42,7 @@ p {
   	margin-top: 30px;
   	margin-bottom: 30px;
   	text-align: left;
-  	font-family: "Georgia", Georgia, serif;
+  	font-family: didotLTStdRoman, "Georgia", Georgia, serif;
 }
 
 img {
