@@ -45,13 +45,16 @@ h4 {
 .announcement {
 	border-style: solid; 
 	border-color: white; 
-	border-radius: 15px; 
+	border-radius: 10px; 
 	background-color: white; 
-	margin-left: 80px; 
-	margin-right: 80px; 
 	margin-top: 20px; 
 	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: fit-content;
 	font-style: italic;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .center {
