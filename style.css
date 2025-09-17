@@ -83,6 +83,14 @@ img.portrait {
   	width: 45%;
 }
 
+iframe {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	border-radius: 10px;
+  	border-style: none;
+}
+
 .topnav {
 	background-color: #606073;
 	overflow: hidden;
